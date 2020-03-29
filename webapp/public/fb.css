@@ -51,6 +51,7 @@ div.hora{
     width: 100%;
     border: none;
     border-bottom: 2px solid black;
+    background-color: darkblue;
 }
 
 .parteuno{
