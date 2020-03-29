@@ -83,7 +83,8 @@ div.hora{
 
 #toolbar{
     float: left;
-    background-color: cornflowerblue;
+    background-color: floralwhite;
+    border: 1px solid;
     height: 55px;
     width: 600px;
 }
