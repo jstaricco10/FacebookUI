@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+}
+
+#header{
+    float: left;
+    background-color: cornflowerblue;
+    height: 80px;
+    width: 600px;
+}
+
+#cuerpo{
+    height: 700px;
+    width: 600px;
+    background-color: floralwhite;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+div.primeralinea{
+    float: left;
+    height: 40%;
+    width: 30%;
+    border: 1px;
+    margin: 1%; 
+    color: black;
+}
+
+div.segundalinea{
+    float: left;
+    height: 60%;
+    width: 30%;
+    border: 1px;
+    margin: 1%;
+    color: black;
+}
+div.hora{
+    text-align: center;
+}
+.izq{
+    float: left;
+}
+#wifi{
+    position: relative;
+    left :40px;
+    color: floralwhite;
+}
+
+#buscar{
+    border-radius: 25px;
+}
+
+.parteuno{
+    position: relative;
+    height: 60px;
+    margin: 10px;
+    border: 2px solid;
+}
+.partedos{
+    border: 2px solid;
+}
+.partetres{
+    border: 2px solid;
+    height: 50px;
+}
+
+.espacioizqpuntas{
+    position: relative;
+    left: 25px;
+}
+
+.espacioizqmedio{
+    position: relative;
+    left: 30px;
+    margin: 0px 50px 0px 50px;   
+}
+
+
+#toolbar{
+    float: left;
+    background-color: cornflowerblue;
+    height: 55px;
+    width: 600px;
+}
