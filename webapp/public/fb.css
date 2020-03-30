@@ -89,3 +89,7 @@ div.hora{
     height: 55px;
     width: 600px;
 }
+
+.hover:hover{
+    background-color: cornflowerblue;
+}
